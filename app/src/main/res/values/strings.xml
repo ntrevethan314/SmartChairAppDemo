@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartChair App Demo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="rov_units"><sup>°</sup></string>
+    <string name="title_activity_maps">Map</string>
+</resources>
